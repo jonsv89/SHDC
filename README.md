@@ -1,4 +1,4 @@
-# Sex Associated Differences in Human Diseases
+# A catalog of sex differences in human diseases
 The goal of this project is to study the similarities and differences in gene expression between men and women across human diseases to better understand comorbidity differences between sexes.
 
 To this end, we have downloaded publicly available microarray and RNAseq gene expression datasets from the Gene Expression Omnibus (GEO), ArrayExpress, and the GREIN platform (http://www.ilincs.org/apps/grein/?gse=). The first two provide raw gene expression data (microarrays), while the second one provides the transcript counts (https://www.nature.com/articles/s41598-019-43935-8).
